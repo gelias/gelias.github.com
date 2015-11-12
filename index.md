@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hello World!
+title: Continuous Learning
 tagline: Supporting tagline
 ---
 {% include JB/setup %}
